@@ -1,4 +1,4 @@
-autocomplete
+Autocomplete
 ============
 
 CoffeeScript jQuery Autocomplete, without jQuery UI dependence
